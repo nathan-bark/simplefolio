@@ -1,3 +1,5 @@
 .profile-pic {
-    border-radius: 45px;
+    border-radius: 15px 80px;
+    box-shadow: 5px 5px 5px rgb(54, 51, 51);
+    
 }
